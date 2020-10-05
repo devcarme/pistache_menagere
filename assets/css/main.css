@@ -1,0 +1,92 @@
+#titre{
+    color: #8C8C8C;
+}
+
+#first{
+    color: goldenrod;
+}
+
+#second{
+    color: silver;
+}
+
+#third{
+    color: saddlebrown;
+}
+
+.bg-w{
+    background-color: #F2F2F2 !important;
+}
+
+.bg-w2{
+    background-color: #D9D9D9 !important;
+}
+
+.bg-g{
+    background-color: #8C8C8C !important;
+}
+
+.bg-g2{
+    background-color: #404040 !important;
+} 
+
+.bg-b{
+    background-color: #0D0D0D !important;
+}
+
+.text-w{
+    color: #F2F2F2 !important;
+}
+
+.text-w2{
+    color: #D9D9D9 !important;
+}
+
+.text-g{
+    color: #8C8C8C !important;
+}
+
+.text-g2{
+    color: #404040 !important;
+}
+
+.text-b{
+    color: #0D0D0D !important;
+}
+
+.border-radius-0{
+    border-radius: 0 !important;
+}
+
+input::placeholder{
+    color: #D9D9D9
+}
+
+.modal-content{
+    background-color: #D9D9D9 !important;
+}
+
+.jumbotron{
+    background-color: #D9D9D9 !important;
+}
+
+/* Small devices (landscape phones, 544px and up) */
+@media (min-width: 544px) {  
+    h1 {font-size: 3em;}
+  }
+
+  /* Medium devices (tablets, 768px and up) */
+  @media (min-width: 768px) {  
+    h1 {font-size: 32px;}
+  }
+
+  /* Large devices (desktops, 992px and up) */
+  @media (min-width: 992px) { 
+    h1 {font-size: 32px;}
+
+  /* Extra large devices (large desktops, 1200px and up) */
+  @media (min-width: 1200px) {  
+    .class-name {font-size: 48px;}
+  }
+
+  /*
